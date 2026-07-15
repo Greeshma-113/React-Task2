@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-task-2",
+=======
+  "name": "react-task2",
+>>>>>>> c29ac19aed97dec95daffffd90fafb0bf2df66d7
   "private": true,
   "version": "0.0.0",
   "type": "module",

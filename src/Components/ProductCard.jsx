@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 
 const ProductCard = ({ product, orderValue }) => {
@@ -11,3 +12,17 @@ const ProductCard = ({ product, orderValue }) => {
 };
 
 export default ProductCard;
+=======
+import React from 'react'
+
+const ProductCard = ({ name, price }) => {
+  return (
+    <div className="card">
+      <h2>{name}</h2>
+      <p>Price: ₹{price}</p>
+    </div>
+  )
+}
+
+export default ProductCard
+>>>>>>> c29ac19aed97dec95daffffd90fafb0bf2df66d7
